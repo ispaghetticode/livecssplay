@@ -235,6 +235,7 @@ svg {
     <p>A browser-side only app, no backend, auto-saves progress, and one-click CSS code copying.</p>
     <p class="description">Write your CSS code piece by piece instead of all at once 🎨<br/>And watch your HTML document being styled one step at a time 🎬
     </p>
+    <p>У меня было много посещений из России. Спасибо за попробование этого приложения.</p>
     <hr />
     <div class="guide">
         <div>
